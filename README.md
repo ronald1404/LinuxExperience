@@ -211,5 +211,4 @@
     - killall chrome 
     - w (mostra quem está logado no momento)
     - who -a (mostra o pin de quem está logado)
-    - kill PIN (derruba o usuário)#   L i n u x E x p e r i e n c e  
- 
+    - kill PIN (derruba o usuário)
